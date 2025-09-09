@@ -1,0 +1,16 @@
+pandas
+numpy
+matplotlib
+filelock
+gspread
+google-auth
+openpyxl
+streamlit
+pandas
+numpy
+plotly
+matplotlib   # optional; not required for this app but kept
+filelock
+scikit-learn
+gspread
+google-auth
